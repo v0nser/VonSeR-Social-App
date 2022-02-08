@@ -1,0 +1,54 @@
+body{
+	background: #403B4A;  
+background: -webkit-linear-gradient(to right, #E7E9BB, #403B4A);  
+background: linear-gradient(to right, #E7E9BB, #403B4A); 
+}
+
+/*nav bar*/
+div.container-fluid{
+	margin-left: 125px !important;
+	margin-right: 128px !important;
+}
+
+form.d-flex{
+	width: 45% !important;
+}
+
+a.navbar-brand{
+	color: #e30a3c !important;
+	font-family: 'Fredoka One', cursive !important; 
+	font-weight: bold !important;
+}
+
+/*lander page*/
+
+div.container{
+	margin-top: 100px !important;
+}
+
+.lander-col{
+	display: inline-block;
+	padding-top: 15%;
+}
+
+
+/* Footer */
+ footer {
+  position: fixed;
+  height: 60px;
+  left: 0;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+}
+a.foot{
+	text-decoration: none;
+	color: black;
+}
+
+p.foot{
+	font-size: 14px;
+	text-decoration: none;
+	margin-top: 20px;
+}
+
