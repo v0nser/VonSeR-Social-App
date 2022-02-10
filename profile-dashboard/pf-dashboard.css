@@ -1,0 +1,85 @@
+a.navbar-brand{
+	color: #e30a3c !important;
+	font-family: 'Fredoka One', cursive !important; 
+	font-weight: bold !important;
+}
+
+div.container-fluid{
+    margin-left: 2% !important;
+}
+
+
+
+form.d-flex{
+    margin-right: 60%;
+    
+}
+
+input[type=search] {
+    background-color: rgb(68, 67, 67) !important;
+    color: #fff !important;
+    border: none !important;
+}
+
+.post-buttons{
+    float:right;
+    margin-top: 2%;
+}
+
+.container{
+    margin-top: 2%;
+}
+
+.flex-post {
+    display: flex;
+    flex-direction: row;
+ }
+
+ .cover {  
+    border: rgb(77, 75, 75) solid 3px; 
+    width: 300px;
+    z-index:1;
+}
+.cover img {
+    max-width:100%; 
+    z-index:1;
+}
+
+.coverr{
+    align-items: center;
+    position: relative;
+    display: block;
+    margin-left: -30%;
+    overflow:hidden;
+}
+.profile {
+   
+    border:rgb(61, 58, 58) solid 3px;
+    border-radius:100%;
+    width: 100px;
+    height: 100px;    
+}
+.profile img {
+    max-width:100%;
+    z-index:999;
+}
+
+.pf{
+    align-items: center;
+    display:block;
+    position:absolute;
+    top: 220px;
+    left: 140px;
+    z-index:999;
+}
+
+  a.foot{
+      text-decoration: none;
+      color: black;
+  }
+  
+  p.foot{
+      font-size: 14px;
+      text-decoration: none;
+      margin-top: 20px;
+  }
